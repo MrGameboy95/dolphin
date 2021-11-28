@@ -224,7 +224,7 @@ msgstr "%1 ist gegangen"
 
 #: Source/Core/DolphinQt/NetPlay/NetPlayDialog.cpp:1025
 msgid "%1 is not a valid ROM"
-msgstr ""
+msgstr "%1 ist keine güllrige ROM"
 
 #: Source/Core/DolphinQt/NetPlay/NetPlayDialog.cpp:954
 msgid "%1 is now golfing"
@@ -397,7 +397,7 @@ msgstr "&Code"
 
 #: Source/Core/DolphinQt/GBAWidget.cpp:352
 msgid "&Connected"
-msgstr ""
+msgstr "&Verbunden"
 
 #: Source/Core/DolphinQt/MenuBar.cpp:525
 msgid "&Controller Settings"
@@ -441,7 +441,7 @@ msgstr "&Emulation"
 
 #: Source/Core/DolphinQt/GBAWidget.cpp:378
 msgid "&Export State..."
-msgstr ""
+msgstr "Spielstand &exportieren"
 
 #: Source/Core/DolphinQt/GCMemcardManager.cpp:105
 msgid "&Export as .gci..."
@@ -485,7 +485,7 @@ msgstr "&Tastenkürzel-Einstellungen"
 
 #: Source/Core/DolphinQt/GBAWidget.cpp:375
 msgid "&Import State..."
-msgstr ""
+msgstr "Spielstans &importieren"
 
 #: Source/Core/DolphinQt/GCMemcardManager.cpp:115
 msgid "&Import..."
@@ -529,7 +529,7 @@ msgstr "Fil&m"
 
 #: Source/Core/DolphinQt/GBAWidget.cpp:381
 msgid "&Mute"
-msgstr ""
+msgstr "Stum&m"
 
 #: Source/Core/DolphinQt/MenuBar.cpp:481
 msgid "&Network"
@@ -975,7 +975,7 @@ msgstr "AR-Code"
 
 #: Source/Core/DolphinQt/Config/PropertiesDialog.cpp:56
 msgid "AR Codes"
-msgstr "AR Codes"
+msgstr "AR-Codes"
 
 #: Source/Core/DolphinQt/Debugger/MemoryWidget.cpp:119
 #: Source/Core/DolphinQt/Debugger/MemoryWidget.cpp:155
@@ -1134,7 +1134,7 @@ msgstr "Neues USB-Gerät hinzufügen"
 #: Source/Core/DolphinQt/GameList/GameList.cpp:439
 #: Source/Core/DolphinQt/GameList/GameList.cpp:442
 msgid "Add Shortcut to Desktop"
-msgstr ""
+msgstr "Verknüpfung zum Desktop hinzufügen"
 
 #: Source/Core/Core/HotkeyManager.cpp:76
 msgid "Add a Breakpoint"
@@ -1352,7 +1352,7 @@ msgstr "Immer verbunden"
 
 #: Source/Core/DolphinQt/GBAWidget.cpp:403
 msgid "Always on &Top"
-msgstr ""
+msgstr "Immer im Vordergrund"
 
 #: Source/Core/Common/Assert.h:39
 #, c-format
